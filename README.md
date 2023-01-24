@@ -1,13 +1,6 @@
 # Linear_regression_project
 
-Need to update:
- wers
-Sorted by:
-
-Highest score (default)
-
-126
-
+Need to update: I standardized data before splitting but that is wrongly using future data.
 
 You first need to split the data into training and test set (validation set could be useful too).
 
