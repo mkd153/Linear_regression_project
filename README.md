@@ -1,0 +1,2 @@
+# Linear_regression_project
+A higher education consulting firm, has provided a list of students' performance metrics such as GRE test score (out of 340), TOEFL test score (out of 120), university rating (out of 5.0), undergrad GPA (out of 10), score of recommendation letters and Statement of Purpose (out of 5), research experience (0 or 1), and their chance of getting admit (0 to 1 range). We need to analyze which performance metrics were more important in predicting the chances of getting an admit, to help in predicting the admit chances for future students.
